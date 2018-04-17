@@ -1,0 +1,38 @@
+h1 {
+        color:#fc94c0;
+        text-align: center;
+        font-family: 'Londrina Shadow', cursive;
+        font-size: 55px;
+}
+h2 { font-size: 30px;
+}
+body {
+      font-family: 'Bellefair', serif;
+      color:#fc94c0;
+      text-align: center;
+      background-color: #e2fffe
+
+}
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+      font-family: 'Bellefair', serif;
+    }
+    input[type="submit"] {
+      background:#fc94c0;
+      color: white;
+    }
+div {
+          border: 0;
+          padding: 10px;
+          font-size: 18px;
+          font-family: 'Bellefair', serif;
+        }
+p {font-size: 18px}
+li {list-style-type: none}
+ul {
+  padding: 10px;
+}
+a {
+  color:#fc94c0;
